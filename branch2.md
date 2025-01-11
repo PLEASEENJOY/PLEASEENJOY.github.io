@@ -1,4 +1,4 @@
-# Branch 2 Hub
+# Branch 2
 
 Welcome to branch 2. The theme is trivia.
 
