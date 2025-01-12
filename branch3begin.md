@@ -2,4 +2,4 @@
 
 Welcome to Branch 3. The theme is: physical locations.
 
-(Click here to begin)[https://pleaseenjoy.github.io/branch3]
+[Click here to begin](https://pleaseenjoy.github.io/branch3)
